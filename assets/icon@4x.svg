@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="64" height="64" viewBox="0 0 64 64">
+    <style>
+        line
+        {
+            stroke-width: 6;
+            stroke-linecap: round;
+        }
+    </style>
+
+    <line x1="12" y1="8" x2="12" y2="32" stroke="black" />
+    <line x1="52" y1="32" x2="52" y2="56" stroke="black" />
+
+    <line x1="12" y1="8" x2="52" y2="8" stroke="#00ADEF" />
+    <line x1="12" y1="32" x2="52" y2="32" stroke="#4CB84B" />
+    <line x1="12" y1="56" x2="52" y2="56" stroke="#EC1D27" />
+</svg>
